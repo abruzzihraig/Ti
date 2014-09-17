@@ -1,0 +1,19 @@
+{
+  "name": "Ti",
+  "version": "0.0.0",
+  "description": "Ti is a css preprocessor developed by Rework framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abruzzihraig/Ti.git"
+  },
+  "author": "何洋 <abruzzi.hraig@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abruzzihraig/Ti/issues"
+  },
+  "homepage": "https://github.com/abruzzihraig/Ti"
+}
