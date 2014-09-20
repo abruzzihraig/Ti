@@ -1,10 +1,10 @@
 {
   "name": "Ti",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Ti is a css preprocessor developed by Rework framework.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/abruzzihraig/Ti/issues"
   },
-  "homepage": "https://github.com/abruzzihraig/Ti"
+  "homepage": "https://github.com/abruzzihraig/Ti",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "chai": "^1.9.1"
+  },
+  "dependencies": {
+    "rework": "^1.0.1",
+    "rework-color-distinguish": "^0.1.0",
+    "css-whitespace": "^1.1.0",
+    "rework-mixins": "^1.2.0"
+  }
 }
