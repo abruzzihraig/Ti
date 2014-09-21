@@ -1,0 +1,36 @@
+.foo {
+  font-size: 20px;
+  *zoom: 1;
+}
+
+.foo:before,
+.foo:after {
+  content: " ";
+  display: table;
+}
+
+.foo:after {
+  clear: both;
+}
+
+.foo .bar p {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  background-color: #000000;
+}
+
+.foo .bar {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #333;
+}
+
+.wrap {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}

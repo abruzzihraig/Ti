@@ -1,0 +1,12 @@
+.foo
+    font-size: 20px
+    clear: fix
+    .bar
+        overflow: ellipsis
+        color: #333
+        p
+            absolute: top 5px left 10px
+            background-color: contrast(#489fa3)
+
+.wrap
+    display: flex
