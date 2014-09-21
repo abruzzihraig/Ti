@@ -1,5 +1,5 @@
-Ti
-==
+#Ti
+[![Build Status](https://travis-ci.org/abruzzihraig/Ti.svg?branch=master)](https://travis-ci.org/abruzzihraig/Ti) [![Code Climate](https://codeclimate.com/github/abruzzihraig/Ti/badges/gpa.svg)](https://codeclimate.com/github/abruzzihraig/Ti)
 
 Ti is a css preprocessor developed by Rework framework.  
 !! *Currently This repo is just a demo for preprocessing css.*
