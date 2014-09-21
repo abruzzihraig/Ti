@@ -2,7 +2,7 @@
   "name": "Ti",
   "version": "0.0.1",
   "description": "Ti is a css preprocessor developed by Rework framework.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
   },
@@ -24,6 +24,8 @@
     "rework": "^1.0.1",
     "rework-color-distinguish": "^0.1.0",
     "css-whitespace": "^1.1.0",
-    "rework-mixins": "^1.2.0"
+    "rework-mixins": "^1.2.0",
+    "rework-clearfix": "^1.0.0",
+    "rework-plugin-mixin": "^1.0.0"
   }
 }
