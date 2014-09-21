@@ -1,5 +1,5 @@
 {
-  "name": "ti",
+  "name": "ti-preprocessor",
   "version": "0.1.0",
   "description": "Ti is a css preprocessor developed by Rework framework.",
   "main": "lib/index.js",
